@@ -1,16 +1,21 @@
-## Hi there 👋
+# Jay Jorgensen
 
-<!--
-**jkjorgie/jkjorgie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋
 
-Here are some ideas to get you started:
+I'm Jay Jorgensen, a student at Brigham Young University-Idaho interested in all things software development. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I've been a software developer for about 16 years, but recently went back to school to finish my degree.
+- My goals are to continue to build robust, paradigm-changing applications that make end-users lives easier.
+
+## Technologies and Tools
+
+- Proficient in: PeopleTools, C#/.Net, Python, SQL, React, Node.js, JavaScript/TypeScript, CSS/HTML, Java, JSON/XML, SOAP/REST Web Services
+- Skills: Technical Leadership/Management, Testing, Training, Technical Documentation, Project Management, Resource Management
+
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/jay-jorgensen-37326a40/) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
